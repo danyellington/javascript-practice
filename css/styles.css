@@ -1,0 +1,33 @@
+.fade {
+  display: none;
+}
+
+.fade2 {
+  display: none;
+
+}
+
+.fonts {
+  font-size: 33px;
+  color: green;
+  font-family: fantasy;
+}
+
+#fonts2 {
+  font-size: 33px;
+  color: green;
+  font-family: fantasy;
+}
+
+#show {
+  display: none ;
+}
+
+.clickable {
+  cursor: pointer;
+  color: purple;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
